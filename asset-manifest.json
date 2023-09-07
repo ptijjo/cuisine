@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Recettes-cuisine/static/css/main.af9926f8.css",
+    "main.js": "/Recettes-cuisine/static/js/main.cfbced8f.js",
+    "static/media/youtube-icon.png": "/Recettes-cuisine/static/media/youtube-icon.aeca7c29063e36e7c31b.png",
+    "index.html": "/Recettes-cuisine/index.html",
+    "main.af9926f8.css.map": "/Recettes-cuisine/static/css/main.af9926f8.css.map",
+    "main.cfbced8f.js.map": "/Recettes-cuisine/static/js/main.cfbced8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9926f8.css",
+    "static/js/main.cfbced8f.js"
+  ]
+}
