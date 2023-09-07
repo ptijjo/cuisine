@@ -1,0 +1,42 @@
+.carte{
+    width: 22%;
+    aspect-ratio: 1/2;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(253, 145, 161);;
+    margin-bottom: 40px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: 0.5s;
+}
+.carte:hover{
+    cursor: pointer;
+    scale: 1.04;
+}
+
+.nom-repas{
+    margin-bottom: 15px;
+}
+
+.origine-repas{
+    margin-bottom: 10px;
+}
+
+.img-repas{
+    width: 100%;
+    aspect-ratio: 1/1;
+    margin-bottom: 10px;
+}
+.img-repas img{
+    width: 100%;
+    object-fit: center/cover;
+    border-radius: 20px;
+}
+
+.instructions-repas{
+    text-align: justify;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
